@@ -1,0 +1,5 @@
+__pychache__
+fastapi-env
+.DS_Store
+.idea
+__pycache__/main.cpython-310.pyc
